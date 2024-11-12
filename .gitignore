@@ -7,6 +7,9 @@
 *.o
 *.obj
 
+# Video Format
+*.avi
+
 # Precompiled Headers
 *.gch
 *.pch
