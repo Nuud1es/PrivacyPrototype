@@ -58,7 +58,7 @@
 		},
 		{
 			"Name": "VRExpansionPlugin",
-			"Enabled": true,
+			"Enabled": false,
 			"SupportedTargetPlatforms": [
 				"Win64",
 				"Linux",
