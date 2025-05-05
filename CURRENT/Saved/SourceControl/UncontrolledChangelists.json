@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/nuudles/Desktop/ProcedualGrip_Demo + Physics/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/nuudles/Desktop/ProcedualGrip_Demo + Physics/Content/Joe/Blueprints/BP_Button.uasset",
+				"C:/Users/nuudles/Desktop/ProcedualGrip_Demo + Physics/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"C:/Users/nuudles/Desktop/ProcedualGrip_Demo + Physics/Content/VRTemplate/Input/Actions/IA_Thumbstick_Right.uasset",
+				"C:/Users/nuudles/Desktop/ProcedualGrip_Demo + Physics/Content/VRTemplate/Input/Actions/IA_Trigger_Right.uasset",
+				"C:/Users/nuudles/Desktop/ProcedualGrip_Demo + Physics/Content/VRTemplate/Input/IMC_Default.uasset",
+				"C:/Users/nuudles/Desktop/ProcedualGrip_Demo + Physics/Content/Josh/Blueprints/Widgets/BP_DualMonitor.uasset",
+				"C:/Users/nuudles/Desktop/ProcedualGrip_Demo + Physics/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/nuudles/Desktop/ProcedualGrip_Demo + Physics/Content/VRTemplate/Input/Actions/IA_Thumbstick_Left.uasset",
+				"C:/Users/nuudles/Desktop/ProcedualGrip_Demo + Physics/Content/VRTemplate/Input/Actions/IA_Trigger_Left.uasset",
+				"C:/Users/nuudles/Desktop/ProcedualGrip_Demo + Physics/Content/Josh/Blueprints/BPI_NameMonitor.uasset",
+				"C:/Users/nuudles/Desktop/ProcedualGrip_Demo + Physics/Content/Josh/Blueprints/Widgets/WBP_Scrollable_Test.uasset"
+			]
+		}
+	]
+}
