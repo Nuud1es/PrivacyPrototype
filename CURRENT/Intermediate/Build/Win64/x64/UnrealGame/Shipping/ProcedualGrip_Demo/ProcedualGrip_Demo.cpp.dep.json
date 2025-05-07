@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\nuudles\\documents\\github\\privacyprototype\\current\\intermediate\\source\\procedualgrip_demo.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\nuudles\\documents\\github\\privacyprototype\\current\\intermediate\\build\\win64\\x64\\procedualgrip_demo\\shipping\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\nuudles\\documents\\github\\privacyprototype\\current\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\procedualgrip_demo\\definitions.procedualgrip_demo.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
