@@ -44,6 +44,13 @@
 			]
 		},
 		{
+			"ShaderMapHash": "D29E6211B3CA45E16E4A7BC7C2476DE40AA702AA",
+			"Assets": [
+				"/Game/Movies/M_MV_Window",
+				"/Game/Movies/Pictures/M_Window"
+			]
+		},
+		{
 			"ShaderMapHash": "5C4210124C089F84A2890112B2152D84A9DB694B",
 			"Assets": [
 				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialToggleButton"
@@ -183,12 +190,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "2681CC43702A131170515A3D17A4098D02C58671",
-			"Assets": [
-				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
-			]
-		},
-		{
 			"ShaderMapHash": "087CEB432F292104353C335505565A869282D66D",
 			"Assets": [
 				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
@@ -222,6 +223,12 @@
 			"ShaderMapHash": "8EECCA53DF4E43B58A91DCCD9AF8F7A5CE0F2E00",
 			"Assets": [
 				"/Engine/EngineMaterials/FlattenMaterial_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "54C84B54F1C871332441496492495A7FD7B3C020",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid"
 			]
 		},
 		{
@@ -528,6 +535,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "7C4B08ACEE876BEB084BAF16C445B6C7806DDBCB",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
+			]
+		},
+		{
 			"ShaderMapHash": "420617AD378324561DD1D4C5C7BD170254BC2C9E",
 			"Assets": [
 				"/Engine/EditorMaterials/Dataflow/DataflowVertexMaterial"
@@ -567,12 +580,6 @@
 			"ShaderMapHash": "B2FC81C13AE7207D1153DF33FFBABF557264E9FB",
 			"Assets": [
 				"/Game/Joe/SimpleLasers/DemoContent/Geometry/Meshes/CubeMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "387DD6C38B97FACF04C58704193822DED9EAA1F7",
-			"Assets": [
-				"/Game/LevelPrototyping/Materials/M_PrototypeGrid"
 			]
 		},
 		{
@@ -654,12 +661,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "FDDAB8E178EF15B23A82A3F09A71F060A5A3CFE3",
-			"Assets": [
-				"/Game/Joe/Footage/M_Window"
-			]
-		},
-		{
 			"ShaderMapHash": "63E643E7E2533C871F25C548681B231B33C978F8",
 			"Assets": [
 				"/Engine/EngineMaterials/GizmoMaterial"
@@ -703,12 +704,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "859E5BF46EBBA5C9AB74D8555B3888C5DC7353A6",
-			"Assets": [
-				"/Game/Joe/Footage/M_Blank"
-			]
-		},
-		{
 			"ShaderMapHash": "EFA519F58F99F01F2C6982A7C6B1265EA50F82E8",
 			"Assets": [
 				"/OpenXR/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality",
@@ -727,7 +722,10 @@
 		{
 			"ShaderMapHash": "06BE77F97847F3FBB973810636270E575B369E85",
 			"Assets": [
-				"/Game/Joe/Footage/M_Fight"
+				"/Game/Movies/M_MV_Blank",
+				"/Game/Movies/M_MV_Fight",
+				"/Game/Movies/Pictures/M_Blank",
+				"/Game/Movies/Pictures/M_Fight"
 			]
 		},
 		{

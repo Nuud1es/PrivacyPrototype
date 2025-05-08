@@ -2353,7 +2353,7 @@ ConfigSystem.<Editor>.Engine:/Script/Engine.UserInterfaceSettings:UIScaleRule:0=
 ConfigSystem.<Editor>.Engine:/Script/Engine.WorldPartitionSettings:EditorHashDefaultClass:0=/Script/CoreUObject.Class'/Script/Engine.WorldPartitionEditorSpatialHash'
 ConfigSystem.<Editor>.Engine:/Script/Engine.WorldPartitionSettings:RuntimeHashDefaultClass:0=/Script/CoreUObject.Class'/Script/Engine.WorldPartitionRuntimeHashSet'
 ConfigSystem.<Editor>.Engine:/Script/EngineSettings.GameMapsSettings:EditorStartupMap:0=/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
-ConfigSystem.<Editor>.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/VRTemplate/Maps/Main.Main
+ConfigSystem.<Editor>.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/VRTemplate/Maps/Level2.Level2
 ConfigSystem.<Editor>.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
 ConfigSystem.<Editor>.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Game/VRTemplate/Blueprints/VRGameMode.VRGameMode_C
 ConfigSystem.<Editor>.Engine:/Script/EngineSettings.GameMapsSettings:LocalMapOptions:0=
@@ -2646,7 +2646,7 @@ ConfigSystem.<Editor>.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings
 ConfigSystem.<Editor>.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:CompressionQualityModifier:0=1.000000
 ConfigSystem.<Editor>.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:D3D11TargetedShaderFormats:0=PCD3D_SM5
 ConfigSystem.<Editor>.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:D3D12TargetedShaderFormats:0=PCD3D_SM6
-ConfigSystem.<Editor>.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:DefaultGraphicsRHI:0=DefaultGraphicsRHI_Default
+ConfigSystem.<Editor>.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:DefaultGraphicsRHI:0=DefaultGraphicsRHI_DX11
 ConfigSystem.<Editor>.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:HighSampleRate:0=32000.000000
 ConfigSystem.<Editor>.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:LowSampleRate:0=12000.000000
 ConfigSystem.<Editor>.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:MaxChunkSizeOverrideKB:0=0
@@ -2853,10 +2853,10 @@ ConfigSystem.<Editor>.Game:/Script/AIModule.EnvQueryManager:MaxAllowedTestingTim
 ConfigSystem.<Editor>.Game:/Script/AIModule.EnvQueryManager:QueryCountWarningInterval:0=30.0
 ConfigSystem.<Editor>.Game:/Script/AIModule.EnvQueryManager:QueryCountWarningThreshold:0=0
 ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:LaunchOnTarget:0=
-ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformBuildConfig:0=(("Windows", PPBC_Shipping))
+ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformBuildConfig:0=(("Windows", PPBC_DebugGame))
 ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformBuildTarget:0=()
 ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformTargetFlavorName:0=(("Android", "Android_ASTC"))
-ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:StagingDirectory:0=(Path="C/Users/nuudles/Documents/GitHub/PrivacyPrototype/CURRENT/Build")
+ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:StagingDirectory:0=(Path="C/Users/nuudles/Documents/Level2")
 ConfigSystem.<Editor>.Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:0=(PrimaryAssetType="Map",AssetBaseClass=/Script/Engine.World,bHasBlueprintClasses=False,bIsEditorOnly=True,Directories=((Path="/Game/Maps")),SpecificAssets=,Rules=(Priority=-1,ChunkId=-1,bApplyRecursively=True,CookRule=Unknown))
 ConfigSystem.<Editor>.Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:1=(PrimaryAssetType="PrimaryAssetLabel",AssetBaseClass=/Script/Engine.PrimaryAssetLabel,bHasBlueprintClasses=False,bIsEditorOnly=True,Directories=((Path="/Game")),SpecificAssets=,Rules=(Priority=-1,ChunkId=-1,bApplyRecursively=True,CookRule=Unknown))
 ConfigSystem.<Editor>.Game:/Script/Engine.DebugCameraController:bShowSelectedInfo:0=true
@@ -2916,6 +2916,9 @@ ConfigSystem.<Editor>.Game:/Script/EngineSettings.GeneralProjectSettings:Project
 ConfigSystem.<Editor>.Game:/Script/EngineSettings.GeneralProjectSettings:SupportContact:0=
 ConfigSystem.<Editor>.Game:/Script/LiveLink.LiveLinkSettings:DefaultRoleSettings:0=(Role=Class'/Script/LiveLink.LiveLinkAnimationRole', FrameInterpolationProcessor=Class'/Script/LiveLink.LiveLinkAnimationFrameInterpolationProcessor')
 ConfigSystem.<Editor>.Game:/Script/LiveLink.LiveLinkSettings:FrameInterpolationProcessor:0=Class'/Script/LiveLink.LiveLinkBasicFrameInterpolationProcessor'
+ConfigSystem.<Editor>.Game:/Script/MoviePlayer.MoviePlayerSettings:bMoviesAreSkippable:0=False
+ConfigSystem.<Editor>.Game:/Script/MoviePlayer.MoviePlayerSettings:bWaitForMoviesToComplete:0=False
+ConfigSystem.<Editor>.Game:/Script/MoviePlayer.MoviePlayerSettings:StartupMovies:0=
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:ApplocalPrerequisitesDirectory:0=(Path="")
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bBuildHttpChunkInstallData:0=False
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bChunkHardReferencesOnly:0=False
@@ -4027,7 +4030,7 @@ LocalIniFile.Android.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSetting
 LocalIniFile.Android.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bSupportsVulkan:0=true
 LocalIniFile.Android.Engine:/Script/AndroidRuntimeSettings.AndroidRuntimeSettings:bSupportsVulkanSM5:0=false
 LocalIniFile.IOS.Engine:/Script/IOSRuntimeSettings.IOSRuntimeSettings:bSupportsMetalMRT:0=False
-LocalIniFile.Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/VRTemplate/Maps/Main.Main
+LocalIniFile.Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameDefaultMap:0=/Game/VRTemplate/Maps/Level2.Level2
 LocalIniFile.Windows.Engine:/Script/EngineSettings.GameMapsSettings:GameInstanceClass:0=/Script/Engine.GameInstance
 LocalIniFile.Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Game/VRTemplate/Blueprints/VRGameMode.VRGameMode_C
 LocalIniFile.Windows.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Engine/Maps/Entry

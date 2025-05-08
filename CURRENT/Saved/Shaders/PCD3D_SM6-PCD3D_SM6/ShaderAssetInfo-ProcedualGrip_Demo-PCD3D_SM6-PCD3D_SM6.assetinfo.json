@@ -196,12 +196,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "A781B84824F4602F1902EF44D3FE44069ED0F553",
-			"Assets": [
-				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
-			]
-		},
-		{
 			"ShaderMapHash": "38CDC648BA6B13D76B6C674AFF7A9BB1A0A9EB98",
 			"Assets": [
 				"/Game/Characters/MannequinsXR/Materials/Instances/Manny/MI_Manny_02"
@@ -239,12 +233,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "8086F251861999388FAB435BB5C086359FEA9ABE",
-			"Assets": [
-				"/Game/Joe/Footage/M_Blank"
-			]
-		},
-		{
 			"ShaderMapHash": "CC02A8536E89E92F2DF9617A44AA1AFBE05F16F1",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
@@ -265,7 +253,10 @@
 		{
 			"ShaderMapHash": "53273C601E2D774F2EF48E3CAA699C66B5264A9B",
 			"Assets": [
-				"/Game/Joe/Footage/M_Fight"
+				"/Game/Movies/M_MV_Blank",
+				"/Game/Movies/M_MV_Fight",
+				"/Game/Movies/Pictures/M_Blank",
+				"/Game/Movies/Pictures/M_Fight"
 			]
 		},
 		{
@@ -396,6 +387,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "85E7A98265B8DEB562D592BE5EF40FE6289E8AF0",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid"
+			]
+		},
+		{
 			"ShaderMapHash": "933087836814C55322B85C7BE5EFF0400AECD16E",
 			"Assets": [
 				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
@@ -504,6 +501,13 @@
 			]
 		},
 		{
+			"ShaderMapHash": "8C0B4F9E4E67581395E7AD29BEC91CDE23DD4213",
+			"Assets": [
+				"/Game/Movies/M_MV_Window",
+				"/Game/Movies/Pictures/M_Window"
+			]
+		},
+		{
 			"ShaderMapHash": "1C2C6F9FDE4E37702ABC41CECE008E4D771F1D35",
 			"Assets": [
 				"/ControlRig/Controls/ControlRigXRayMaterial"
@@ -549,6 +553,12 @@
 			"ShaderMapHash": "7B16A7AF748C1A35AACBF48D7479073CE1F84531",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "528940B18970DD9DE953421E4C9826FD78D160D7",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
 			]
 		},
 		{
@@ -628,12 +638,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "D443C3CD6D02EDCB4FE23624CBF3341AE59765D8",
-			"Assets": [
-				"/Game/Joe/Footage/M_Window"
-			]
-		},
-		{
 			"ShaderMapHash": "13F23ECF9C91200136197103A5317CA78BDDD92F",
 			"Assets": [
 				"/Game/Joe/SimpleLasers/Materials/M_Glass"
@@ -703,12 +707,6 @@
 			"ShaderMapHash": "5EFF3BF39D160C96E5514D8DB4D4B747C6049F82",
 			"Assets": [
 				"/Game/Joe/SimpleLasers/DemoContent/StarterContent/Particles/Materials/M_Spark"
-			]
-		},
-		{
-			"ShaderMapHash": "916563F3D634F082A66EBE4B98C09FE90A3BED99",
-			"Assets": [
-				"/Game/LevelPrototyping/Materials/M_PrototypeGrid"
 			]
 		},
 		{
